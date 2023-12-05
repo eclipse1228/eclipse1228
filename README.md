@@ -1,5 +1,5 @@
 ### Hi there 🙋
-I'm ByeongSu Go, a creative developer passionate about Spring, Javascript and React.
+I'm ByeongSu Go, a creative developer passionate about Spring, Javascript
 
 I'm open to collaborating on interesting projects.🤝
 
