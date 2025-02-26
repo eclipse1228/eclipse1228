@@ -1,5 +1,5 @@
 ### Hi there 🙋
-I'm ByeongSu, a creative developer passionate about Spring, Javascript, Solidity.
+I'm ByeongSu, a creative developer passionate about Spring, Nestjs, Python.
 
 I'm open to collaborating on interesting projects.🤝
 
