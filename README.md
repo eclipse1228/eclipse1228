@@ -1,11 +1,7 @@
-### Hi there 🙋
-I'm ByeongSu, a creative developer passionate about Nestjs, TypeScript
-
-I'm open to collaborating on interesting projects.🤝
-
-Any questions, or want to get involved, please get in touch. Thanks for visiting!.
-
+### 🙋
+- FULL STACK 지향
+- 의도 충만
+- 뇌새김질
 📧 Email : qudtnrh@gmail.com
-
 
 
