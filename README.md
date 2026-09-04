@@ -1,10 +1,8 @@
 ---
 <div align="center">
 ByeongsuKo 🇰🇷
-</div>
-👇
-<div>
-  
+  👇
+
 </div>
 <div align="center">
   
