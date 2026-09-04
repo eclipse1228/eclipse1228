@@ -2,7 +2,9 @@
 <div align="center">
 ByeongsuKo 🇰🇷
 </div>
-
+<div>
+  
+</div>
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/병수-고-697942246)
