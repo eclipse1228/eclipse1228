@@ -1,9 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm ByeongSu Ko
-
-**Full-Stack 지향 · 의도 충만 · 뇌새김질 · 링크드인 메신저 사용**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/병수-고-697942246)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eclipse1228)
 [![Website](https://img.shields.io/badge/litt.ly-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white)](https://litt.ly/byeongsuko)
