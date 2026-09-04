@@ -14,27 +14,10 @@
 
 </div>
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eclipse1228&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="ByeongSu Ko's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eclipse1228&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eclipse1228&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top languages" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eclipse1228&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="GitHub trophies" />
-</p>
-
-### 📈 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/card?username=eclipse1228&theme=tokyonight" alt="Profile summary card" />
+  <img src="https://streak-stats.demolab.com/?user=eclipse1228&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak stats" />
 </p>
 
 ### 🛠 Tech Stack
@@ -57,10 +40,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
-
-### 🧭 Activity Graph
-
-[![ByeongSu Ko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eclipse1228&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
